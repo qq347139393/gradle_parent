@@ -1,0 +1,5 @@
+//父级项目名称
+rootProject.name='gradle_parent'
+include 'child_web'
+include 'web_service'
+

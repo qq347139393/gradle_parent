@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/child_web/build/
+/child_web/build/classes/java/main/
+/web_service/build/
+/web_service/build/classes/java/main/
